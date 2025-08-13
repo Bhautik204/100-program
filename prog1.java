@@ -1,4 +1,5 @@
 //WAP to find a sum of even number into 1D array.
+// Poll SCM implemation in jenkins
 import java.util.Scanner;
 public class prog1{
     public static void main(String[] args){
